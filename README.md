@@ -1,0 +1,1 @@
+# An-lise-das-Colunas-de-Diabetes_Binary-Paralelizado
